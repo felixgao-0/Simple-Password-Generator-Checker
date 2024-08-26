@@ -5,6 +5,8 @@ This generator can generate passwords in 2 modes and check your passwords too.
 ## Creating a password w/o a phrase
 This is the easiest mode. You can just enter how many characters you want and the script will generate a password. Checked to ensure it isn't in any breaches and to ensure its a secure password.
 
+Try the project here! **[Click me!](https://replit.com/@CoolDude9000/Password-Generator#main.py)**
+
 Example:
 ```
 How many characters? 20
