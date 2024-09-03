@@ -1,5 +1,8 @@
 # Simple Password Generate & Checker
 
+![image](https://github.com/user-attachments/assets/6e76f41b-0dde-401d-9e27-c15aad2bc0a8)
+
+
 This generator can generate passwords in 2 modes and check your passwords too.
 
 ## Creating a password w/o a phrase
